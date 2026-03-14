@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ansita
 
 ## 🚀 Tech Stack
-![Skills](https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git)
+![Skills](https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,tailwind,git,docker,golang)
 
 ---
 
