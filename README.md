@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./new.gif" width="550"/>
+  <img src="./new.gif" width="450" height="350"/>
 </p>
 
 ### Hi 👋 I'm Ansita Singh
